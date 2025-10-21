@@ -127,6 +127,7 @@
   },
   "resolutions": {
     "supertest/**/cookiejar": "^2.1.4",
-    "ip": "^2.0.1"
+    "ip": "^2.0.1",
+    "csvtojson": "github:Keyang/node-csvtojson#f3038661c678c6976e3e86dda225ec717a1bddc9"
   }
 }

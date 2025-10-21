@@ -1,9 +1,10 @@
 name: SQLPad release
 
 on:
-  push:
-    tags:
-      - '*'
+  workflow_dispatch:
+  # push:
+  #   tags:
+  #     - '*'
 
 jobs:
   build:
